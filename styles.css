@@ -1,5 +1,5 @@
 /*
- * موقع محمد جمال عبد الرحمن - لاعب ومدرب كرة قدم
+ * موقع محمد عثمان - محاسب
  * تصميم وتطوير: المتحد الذكي
  * © 2025 جميع الحقوق محفوظة
  */
@@ -12,8 +12,8 @@
 }
 
 :root {
-    --primary-color: #2ecc71;
-    --secondary-color: #27ae60;
+    --primary-color: #3498db;
+    --secondary-color: #2980b9;
     --dark-color: #1a1a1a;
     --light-color: #f8f9fa;
     --text-color: #333;
